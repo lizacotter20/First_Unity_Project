@@ -1391,3 +1391,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 116191.058532 seconds.
+  path: Assets/Sprites/Screen Shot 2022-01-23 at 12.48.46 PM.png
+  artifactKey: Guid(93d3a376d524b46a095e83f6b2a277dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Screen Shot 2022-01-23 at 12.48.46 PM.png using Guid(93d3a376d524b46a095e83f6b2a277dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7096a3e22a85bd98f12d86ce2d5a3eb9') in 0.231163 seconds 
+  Import took 0.253956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.482788 seconds.
+  path: Assets/Resources/Screen Shot 2022-01-23 at 12.48.46 PM.prefab
+  artifactKey: Guid(63c5458fbb98946748c69491d2500feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Screen Shot 2022-01-23 at 12.48.46 PM.prefab using Guid(63c5458fbb98946748c69491d2500feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec1bdc4fd0929b4ce4ede57626b8ba') in 0.087144 seconds 
+  Import took 0.090225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.423303 seconds.
+  path: Assets/Resources/green_square_8.prefab
+  artifactKey: Guid(63c5458fbb98946748c69491d2500feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/green_square_8.prefab using Guid(63c5458fbb98946748c69491d2500feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3da814a8fbbbcf674dc4328f61f5208') in 0.013594 seconds 
+  Import took 0.016401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 367.885089 seconds.
+  path: Assets/Sprites/red_square_16.png
+  artifactKey: Guid(f428c6df2d0de44b7bfeb3a5e16f0464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/red_square_16.png using Guid(f428c6df2d0de44b7bfeb3a5e16f0464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff27ed9ec83fbdd85a8edaaf28b7c692') in 0.027735 seconds 
+  Import took 0.044824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.729813 seconds.
+  path: Assets/Sprites/orange_square_32.png
+  artifactKey: Guid(3e5067548621d49d695f9dca7fb747a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/orange_square_32.png using Guid(3e5067548621d49d695f9dca7fb747a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6263335f007a999eb4abc7771bfb04b') in 0.009532 seconds 
+  Import took 0.012452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.648113 seconds.
+  path: Assets/Sprites/dkblue_square_64.png
+  artifactKey: Guid(9be8fb3431937470ca5326d6d2675cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/dkblue_square_64.png using Guid(9be8fb3431937470ca5326d6d2675cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd88b6ccdbfb18072afa443fd525de23') in 0.014055 seconds 
+  Import took 0.017618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.476965 seconds.
+  path: Assets/Sprites/yellow_square_128.png
+  artifactKey: Guid(b62cdf1790ed348298b17083d39fdb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/yellow_square_128.png using Guid(b62cdf1790ed348298b17083d39fdb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186be608feea7c1e6c95a51597613e58') in 0.009632 seconds 
+  Import took 0.012407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.519440 seconds.
+  path: Assets/Resources/red_square_16.prefab
+  artifactKey: Guid(957f03e0ddbcb48209961525e7601275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/red_square_16.prefab using Guid(957f03e0ddbcb48209961525e7601275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa734817ffce49322a7ebec66e2b212') in 0.013612 seconds 
+  Import took 0.016690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.249830 seconds.
+  path: Assets/Resources/orange_square_32.prefab
+  artifactKey: Guid(c633e217000ce46f98dfe4c75be55fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/orange_square_32.prefab using Guid(c633e217000ce46f98dfe4c75be55fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22b67b18f960ffd32d1910943a03300') in 0.008537 seconds 
+  Import took 0.011557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.248765 seconds.
+  path: Assets/Resources/dkblue_square_64.prefab
+  artifactKey: Guid(173ac6f150c0641d9b9e3918a3e1eb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/dkblue_square_64.prefab using Guid(173ac6f150c0641d9b9e3918a3e1eb0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ec4cab3497b29189d2fd5d292f8f32') in 0.008368 seconds 
+  Import took 0.011298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.278447 seconds.
+  path: Assets/Resources/yellow_square_128.prefab
+  artifactKey: Guid(361f8220b495a4e2984db9974f328824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/yellow_square_128.prefab using Guid(361f8220b495a4e2984db9974f328824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec998459b7636c3ea5503378085156cc') in 0.008180 seconds 
+  Import took 0.011217 seconds .
+
