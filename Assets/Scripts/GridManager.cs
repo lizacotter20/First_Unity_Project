@@ -13,7 +13,7 @@ public class GridManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("hullo");
+        //Debug.Log("hullo");
         GenerateGrid();
     }
 
@@ -44,7 +44,7 @@ public class GridManager : MonoBehaviour
     {
        if (Input.GetKeyDown("space")){
            
-             Debug.Log("heyyy shawty");
+            // Debug.Log("heyyy shawty");
         } 
     }
 }
